@@ -11,5 +11,11 @@
 
 @interface MyDocument : NSDocument
 {
+    IBOutlet NSTextView *textView;
+    NSAttributedString *mString;
 }
+
+- (NSAttributedString *) string;
+- (void) setString: (NSAttributedString *) value;
+
 @end
