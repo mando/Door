@@ -265,7 +265,10 @@
 						<key>PBXSmartGroupTreeModuleOutlineStateKey_v7</key>
 						<dict>
 							<key>PBXSmartGroupTreeModuleOutlineStateExpansionKey</key>
-							<array/>
+							<array>
+								<string>1CC0EA4004350EF90044410B</string>
+								<string>1CC0EA4004350EF90041110B</string>
+							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
@@ -304,7 +307,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>59031D61100845CC00271B2A</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>MyDocument.m</string>
+								<string>Info.plist</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -312,21 +315,29 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>59031D62100845CC00271B2A</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>MyDocument.m</string>
+										<string>Info.plist</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>59031D771008578700271B2A</string>
+										<string>59031D8C10085FBD00271B2A</string>
 										<key>history</key>
 										<array>
-											<string>59031D711008578700271B2A</string>
-											<string>59031D721008578700271B2A</string>
+											<string>59031D8110085FBD00271B2A</string>
+											<string>59031D8210085FBD00271B2A</string>
+											<string>59031D8310085FBD00271B2A</string>
+											<string>59031D8410085FBD00271B2A</string>
 										</array>
 										<key>prevStack</key>
 										<array>
 											<string>59031D731008578700271B2A</string>
 											<string>59031D741008578700271B2A</string>
 											<string>59031D751008578700271B2A</string>
+											<string>59031D8510085FBD00271B2A</string>
+											<string>59031D8610085FBD00271B2A</string>
+											<string>59031D8710085FBD00271B2A</string>
+											<string>59031D8810085FBD00271B2A</string>
+											<string>59031D8910085FBD00271B2A</string>
+											<string>59031D8A10085FBD00271B2A</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -641,6 +652,7 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
+		<string>59031D8E10085FBD00271B2A</string>
 		<string>/Users/mando/Projects/Door/Door.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
@@ -1429,33 +1441,40 @@
 			<string>597 125 616 374 0 0 1280 1002 </string>
 		</dict>
 		<dict>
+			<key>FirstTimeWindowDisplayed</key>
+			<false/>
 			<key>Identifier</key>
 			<string>windowTool.refactoring</string>
 			<key>IncludeInToolsMenu</key>
 			<integer>0</integer>
+			<key>IsVertical</key>
+			<true/>
 			<key>Layout</key>
 			<array>
 				<dict>
 					<key>Dock</key>
 					<array>
 						<dict>
-							<key>BecomeActive</key>
-							<integer>1</integer>
+							<key>ContentConfiguration</key>
+							<dict>
+								<key>PBXProjectModuleGUID</key>
+								<string>59031D8D10085FBD00271B2A</string>
+							</dict>
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{0, 0}, {500, 335}</string>
+								<string>{{0, 0}, {500, 315}}</string>
 								<key>RubberWindowFrame</key>
-								<string>{0, 0}, {500, 335}</string>
+								<string>844 799 500 356 0 0 1920 1178 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCRefactoringModule</string>
 							<key>Proportion</key>
-							<string>100%</string>
+							<string>315pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
-					<string>100%</string>
+					<string>315pt</string>
 				</dict>
 			</array>
 			<key>Name</key>
@@ -1464,8 +1483,20 @@
 			<array>
 				<string>XCRefactoringModule</string>
 			</array>
+			<key>StatusbarIsVisible</key>
+			<true/>
+			<key>TableOfContents</key>
+			<array>
+				<string>59031D8E10085FBD00271B2A</string>
+				<string>59031D8F10085FBD00271B2A</string>
+				<string>59031D8D10085FBD00271B2A</string>
+			</array>
 			<key>WindowString</key>
-			<string>200 200 500 356 0 0 1920 1200 </string>
+			<string>844 799 500 356 0 0 1920 1178 </string>
+			<key>WindowToolGUID</key>
+			<string>59031D8E10085FBD00271B2A</string>
+			<key>WindowToolIsVisible</key>
+			<false/>
 		</dict>
 	</array>
 </dict>

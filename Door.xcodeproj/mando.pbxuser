@@ -1,5 +1,12 @@
 // !$*UTF8*$!
 {
+	089C1660FE840EACC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {795, 594}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
 	2A37F4A9FDCFA73011CA2CEA /* Project object */ = {
 		activeBuildConfigurationName = Debug;
 		activeExecutable = 59031D55100845C300271B2A /* Door */;
@@ -42,23 +49,36 @@
 			59031D751008578700271B2A /* PBXTextBookmark */ = 59031D751008578700271B2A /* PBXTextBookmark */;
 			59031D761008578700271B2A /* PBXTextBookmark */ = 59031D761008578700271B2A /* PBXTextBookmark */;
 			59031D771008578700271B2A /* PBXTextBookmark */ = 59031D771008578700271B2A /* PBXTextBookmark */;
+			59031D7D100858F000271B2A /* PBXTextBookmark */ = 59031D7D100858F000271B2A /* PBXTextBookmark */;
+			59031D8110085FBD00271B2A /* PBXTextBookmark */ = 59031D8110085FBD00271B2A /* PBXTextBookmark */;
+			59031D8210085FBD00271B2A /* PBXTextBookmark */ = 59031D8210085FBD00271B2A /* PBXTextBookmark */;
+			59031D8310085FBD00271B2A /* PBXTextBookmark */ = 59031D8310085FBD00271B2A /* PBXTextBookmark */;
+			59031D8410085FBD00271B2A /* PlistBookmark */ = 59031D8410085FBD00271B2A /* PlistBookmark */;
+			59031D8510085FBD00271B2A /* PBXTextBookmark */ = 59031D8510085FBD00271B2A /* PBXTextBookmark */;
+			59031D8610085FBD00271B2A /* PlistBookmark */ = 59031D8610085FBD00271B2A /* PlistBookmark */;
+			59031D8710085FBD00271B2A /* PBXTextBookmark */ = 59031D8710085FBD00271B2A /* PBXTextBookmark */;
+			59031D8810085FBD00271B2A /* PlistBookmark */ = 59031D8810085FBD00271B2A /* PlistBookmark */;
+			59031D8910085FBD00271B2A /* PBXTextBookmark */ = 59031D8910085FBD00271B2A /* PBXTextBookmark */;
+			59031D8A10085FBD00271B2A /* PBXTextBookmark */ = 59031D8A10085FBD00271B2A /* PBXTextBookmark */;
+			59031D8B10085FBD00271B2A /* PlistBookmark */ = 59031D8B10085FBD00271B2A /* PlistBookmark */;
+			59031D8C10085FBD00271B2A /* PlistBookmark */ = 59031D8C10085FBD00271B2A /* PlistBookmark */;
 		};
 		sourceControlManager = 59031D67100845CC00271B2A /* Source Control */;
 		userBuildSettings = {
 		};
 	};
-	2A37F4ACFDCFA73011CA2CEA /* MyDocument.m */ = {
+	2A37F4ACFDCFA73011CA2CEA /* DoorDocument.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1500, 1316}}";
-			sepNavSelRange = "{1394, 0}";
-			sepNavVisRange = "{705, 1675}";
+			sepNavIntBoundsRect = "{{0, 0}, {1164, 1372}}";
+			sepNavSelRange = "{3315, 0}";
+			sepNavVisRange = "{1209, 351}";
 		};
 	};
-	2A37F4AEFDCFA73011CA2CEA /* MyDocument.h */ = {
+	2A37F4AEFDCFA73011CA2CEA /* DoorDocument.h */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {795, 594}}";
-			sepNavSelRange = "{356, 0}";
-			sepNavVisRange = "{0, 362}";
+			sepNavSelRange = "{274, 0}";
+			sepNavVisRange = "{0, 364}";
 		};
 	};
 	59031D55100845C300271B2A /* Door */ = {
@@ -98,78 +118,226 @@
 	};
 	59031D711008578700271B2A /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
-		fRef = 2A37F4AEFDCFA73011CA2CEA /* MyDocument.h */;
+		fRef = 2A37F4AEFDCFA73011CA2CEA /* DoorDocument.h */;
 		name = "MyDocument.h: 20";
 		rLen = 0;
-		rLoc = 356;
+		rLoc = 358;
 		rType = 0;
 		vrLen = 362;
 		vrLoc = 0;
 	};
 	59031D721008578700271B2A /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
-		fRef = 2A37F4ACFDCFA73011CA2CEA /* MyDocument.m */;
+		fRef = 2A37F4ACFDCFA73011CA2CEA /* DoorDocument.m */;
 		name = "MyDocument.m: 24";
 		rLen = 0;
-		rLoc = 467;
+		rLoc = 471;
 		rType = 0;
 		vrLen = 1149;
 		vrLoc = 0;
 	};
 	59031D731008578700271B2A /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
-		fRef = 2A37F4AEFDCFA73011CA2CEA /* MyDocument.h */;
+		fRef = 2A37F4AEFDCFA73011CA2CEA /* DoorDocument.h */;
 		name = "MyDocument.h: 15";
 		rLen = 0;
-		rLoc = 269;
+		rLoc = 271;
 		rType = 0;
 		vrLen = 277;
 		vrLoc = 0;
 	};
 	59031D741008578700271B2A /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
-		fRef = 2A37F4ACFDCFA73011CA2CEA /* MyDocument.m */;
+		fRef = 2A37F4ACFDCFA73011CA2CEA /* DoorDocument.m */;
 		name = "MyDocument.m: 24";
 		rLen = 0;
-		rLoc = 467;
+		rLoc = 471;
 		rType = 0;
 		vrLen = 1149;
 		vrLoc = 0;
 	};
 	59031D751008578700271B2A /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
-		fRef = 2A37F4AEFDCFA73011CA2CEA /* MyDocument.h */;
+		fRef = 2A37F4AEFDCFA73011CA2CEA /* DoorDocument.h */;
 		name = "MyDocument.h: 20";
 		rLen = 0;
-		rLoc = 356;
+		rLoc = 358;
 		rType = 0;
 		vrLen = 362;
 		vrLoc = 0;
 	};
 	59031D761008578700271B2A /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
-		fRef = 2A37F4ACFDCFA73011CA2CEA /* MyDocument.m */;
+		fRef = 2A37F4ACFDCFA73011CA2CEA /* DoorDocument.m */;
 		name = "MyDocument.m: 52";
 		rLen = 0;
-		rLoc = 1394;
+		rLoc = 1398;
 		rType = 0;
 		vrLen = 1848;
 		vrLoc = 821;
 	};
 	59031D771008578700271B2A /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
-		fRef = 2A37F4ACFDCFA73011CA2CEA /* MyDocument.m */;
+		fRef = 2A37F4ACFDCFA73011CA2CEA /* DoorDocument.m */;
 		name = "MyDocument.m: 52";
 		rLen = 0;
-		rLoc = 1394;
+		rLoc = 1398;
 		rType = 0;
 		vrLen = 1675;
 		vrLoc = 705;
+	};
+	59031D7D100858F000271B2A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2A37F4ACFDCFA73011CA2CEA /* DoorDocument.m */;
+		name = "MyDocument.m: 52";
+		rLen = 0;
+		rLoc = 1398;
+		rType = 0;
+		vrLen = 351;
+		vrLoc = 1205;
+	};
+	59031D8110085FBD00271B2A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C1660FE840EACC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	59031D8210085FBD00271B2A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2A37F4ACFDCFA73011CA2CEA /* DoorDocument.m */;
+		name = "DoorDocument.m: 94";
+		rLen = 0;
+		rLoc = 3315;
+		rType = 0;
+		vrLen = 1175;
+		vrLoc = 32;
+	};
+	59031D8310085FBD00271B2A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2A37F4AEFDCFA73011CA2CEA /* DoorDocument.h */;
+		name = "DoorDocument.h: 17";
+		rLen = 0;
+		rLoc = 274;
+		rType = 0;
+		vrLen = 364;
+		vrLoc = 0;
+	};
+	59031D8410085FBD00271B2A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D15AC360486D014006FF6A4 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = /Users/mando/Projects/Door/Info.plist;
+		rLen = 38;
+		rLoc = 0;
+	};
+	59031D8510085FBD00271B2A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2A37F4ACFDCFA73011CA2CEA /* DoorDocument.m */;
+		name = "MyDocument.m: 52";
+		rLen = 0;
+		rLoc = 1398;
+		rType = 0;
+		vrLen = 1732;
+		vrLoc = 670;
+	};
+	59031D8610085FBD00271B2A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D15AC360486D014006FF6A4 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/mando/Projects/Door/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	59031D8710085FBD00271B2A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C1660FE840EACC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	59031D8810085FBD00271B2A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D15AC360486D014006FF6A4 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = /Users/mando/Projects/Door/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	59031D8910085FBD00271B2A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2A37F4ACFDCFA73011CA2CEA /* DoorDocument.m */;
+		name = "DoorDocument.m: 94";
+		rLen = 0;
+		rLoc = 3315;
+		rType = 0;
+		vrLen = 1175;
+		vrLoc = 32;
+	};
+	59031D8A10085FBD00271B2A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2A37F4AEFDCFA73011CA2CEA /* DoorDocument.h */;
+		name = "DoorDocument.h: 17";
+		rLen = 0;
+		rLoc = 274;
+		rType = 0;
+		vrLen = 364;
+		vrLoc = 0;
+	};
+	59031D8B10085FBD00271B2A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D15AC360486D014006FF6A4 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleDocumentTypes,
+			0,
+			NSDocumentClass,
+		);
+		name = /Users/mando/Projects/Door/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	59031D8C10085FBD00271B2A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D15AC360486D014006FF6A4 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleDocumentTypes,
+			0,
+			NSDocumentClass,
+		);
+		name = /Users/mando/Projects/Door/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
 	};
 	8D15AC270486D014006FF6A4 /* Door */ = {
 		activeExec = 0;
 		executables = (
 			59031D55100845C300271B2A /* Door */,
 		);
+	};
+	8D15AC360486D014006FF6A4 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 4}, {1261, 1169}}";
+		};
 	};
 }

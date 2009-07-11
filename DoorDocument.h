@@ -9,7 +9,7 @@
 
 #import <Cocoa/Cocoa.h>
 
-@interface MyDocument : NSDocument
+@interface DoorDocument : NSDocument
 {
     IBOutlet NSTextView *textView;
     NSAttributedString *mString;

@@ -6,9 +6,9 @@
 //  Copyright __MyCompanyName__ 2009 . All rights reserved.
 //
 
-#import "MyDocument.h"
+#import "DoorDocument.h"
 
-@implementation MyDocument
+@implementation DoorDocument
 
 - (id)init
 {
